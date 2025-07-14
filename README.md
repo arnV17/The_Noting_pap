@@ -64,8 +64,8 @@ THE NOTING APP/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd THE\ NOTING\ APP
+git clone https://github.com/arnV17/The_Noting_pap
+cd THE\ NOTING\ APP 
 ```
 
 ---
